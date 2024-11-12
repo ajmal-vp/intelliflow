@@ -1,0 +1,151 @@
+.navbartop
+{
+    background-color: #0F3C84;
+}
+.top{
+    background-color:#F5FBFF;
+}
+.top1{
+    background-color: white;
+    justify-content: center;
+    padding-top: 50px;
+}
+.nav-item
+{
+    color: white;
+}
+.logo img
+{
+    height: 65px;
+    width: 322px;
+    padding-left: 20px;
+}
+.collapse
+{
+    padding-left: 100px;
+}
+.link
+{
+
+    color: white;
+    text-decoration: none;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.try
+{
+    background-color: #FF5711;
+    color: white;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+.heading1{
+    color: #1C3B7F;
+    font-size: 38px;
+}
+.head1
+{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.button1{
+    background-color:  #FF5711;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    
+}
+.image1 img{
+    position: 958,253;
+    width: 766px;
+    height: 552px;
+}
+.top2sub
+{
+    background-color: #D9D9D9;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.top2{
+    background-color: white;
+    padding-top: 50px;
+}
+.image2 img{
+    width: 555px;
+height: 300px;
+padding-left: 100px;
+}
+.heading2{
+    color: #1C3B7F;
+    font-size: 20px;
+    font-weight: bold;
+}
+.head2{
+padding-right:200px ;
+padding-top: 80px;
+}
+.para2{
+    font-size: 16px;
+}
+.top3sub
+{
+    background-color:white;
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+}
+.top3{
+    background-color: white;
+    padding-top: 50px;
+}
+.head3{
+    padding-left: 100px;
+    padding-top: 60px;
+}
+.button2
+{
+    background-color: white;
+    color: #FF5711;
+    border: 2px solid #FF5711 ;
+    border-radius: 5px;
+    
+}
+.bttn 
+{
+    padding-left: 100px;  
+   
+}
+.image3 img{
+    width: 555px;
+height: 300px;
+}
+.top4
+{
+    background-color: white;
+    padding-top: 50px;
+}
+.top4sub{
+    background-color: #FAFAFA;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.head5{
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.top5sub
+{
+    padding-top: 50px;
+}
+.head6{
+    padding-right: 100px;
+    padding-top: 60px;
+}
+.image6 img{
+    padding-left: 50px;
+}
+.top6sub{
+    background-color: #FAFAFA;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
